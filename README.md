@@ -1,1 +1,3 @@
-Initial React App Upload – divinehierarchyapp setup
+# PulpitVoice The Oracle App
+
+Spirit-led platform built with React + Vite.
